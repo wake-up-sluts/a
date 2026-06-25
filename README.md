@@ -2,4 +2,4 @@ ixanek@atomicmail.io
 
 [vimeo](https://vimeo.com/debauchery)
 
-[image](./image.jpg)
+[image](https://raw.githubusercontent.com/wake-up-sluts/a/refs/heads/main/image.jpg)
